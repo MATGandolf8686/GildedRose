@@ -1,0 +1,7 @@
+export enum ItemType {
+  AGED_BRIE,
+  SULFURAS,
+  BACKSTAGE_PASS,
+  CONJURED,
+  STANDARD,
+}
