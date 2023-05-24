@@ -1,4 +1,4 @@
-import { SulfurasItem } from "@/classes/SulfurasItem";
+import { SulfurasItem } from "../../app/classes/SulfurasItem";
 
 describe("Sulfuras Item Class", () => {
   it("Should set up a sulfuras.", () => {

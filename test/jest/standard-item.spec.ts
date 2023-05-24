@@ -1,4 +1,4 @@
-import { StandardItem } from "@/classes/StandardItem";
+import { StandardItem } from "../../app/classes/StandardItem";
 
 describe("Standard Item Class", () => {
   it("Should set up a standard item.", () => {

@@ -1,4 +1,4 @@
-import { BackstagePassItem } from "@/classes/BackstagePassItem";
+import { BackstagePassItem } from "../../app/classes/BackstagePassItem";
 
 describe("Backstage Pass Class", () => {
   it("Should set up a proper backstage pass", () => {

@@ -1,4 +1,4 @@
-import { ItemType } from "@/enums";
+import { ItemType } from "../enums";
 import { FullItem } from "./FullItem";
 
 export class ConjuredItem extends FullItem {

@@ -1,4 +1,4 @@
-import { ConjuredItem } from "@/classes/ConjuredItem";
+import { ConjuredItem } from "../../app/classes/ConjuredItem";
 
 describe("Conjured Item Class", () => {
   it("Should set up a conjured item.", () => {

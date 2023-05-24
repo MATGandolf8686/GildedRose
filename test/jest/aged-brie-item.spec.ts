@@ -1,4 +1,4 @@
-import { AgedBrieItem } from "@/classes/AgedBrieItem";
+import { AgedBrieItem } from "../../app/classes/AgedBrieItem";
 
 describe("Aged Brie Class", () => {
   it("Should set up aged brie.", () => {

@@ -1,4 +1,4 @@
-import { ItemType } from "@/enums";
+import { ItemType } from "../enums";
 import { Item } from "./BaseItem";
 
 export abstract class FullItem extends Item {

@@ -1,9 +1,9 @@
-import { StandardItem } from "@/classes/StandardItem";
 import { GildedRose } from "../app/gilded-rose";
-import { AgedBrieItem } from "@/classes/AgedBrieItem";
-import { SulfurasItem } from "@/classes/SulfurasItem";
-import { BackstagePassItem } from "@/classes/BackstagePassItem";
-import { ConjuredItem } from "@/classes/ConjuredItem";
+import { StandardItem } from "../app/classes/StandardItem";
+import { AgedBrieItem } from "../app/classes/AgedBrieItem";
+import { SulfurasItem } from "../app/classes/SulfurasItem";
+import { BackstagePassItem } from "../app/classes/BackstagePassItem";
+import { ConjuredItem } from "../app/classes/ConjuredItem";
 
 const items = [
   new StandardItem("+5 Dexterity Vest", 10, 20), //
